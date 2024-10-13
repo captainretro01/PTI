@@ -29,8 +29,8 @@ OPERATIONS:
   settings so the font is smaller and so thet the font is black and the background 
   is white so the image is not inverted.
   
-  ptiread2 uses matplotlib so you will be prompted to enter the pixel size, usually 
-  - depending on the image size - between 0.1 and 0.5 are fine. Feel free to 
+  ptiread2 uses matplotlib so you will be prompted to enter the pixel size, usually,
+  depending on the image size, between 0.1 and 0.5 are fine. Feel free to 
   experiment and provide feed back about what pixel sizes work with what resolutions.
   Also the image may be deformed, especially if you maximise the matplotlib window, 
   but you can fiddle with the zoom and pan tools to get the best looking image.
