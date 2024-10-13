@@ -13,7 +13,7 @@ to the terminal
 
 ptiread2.py takes a 1-bit Plaintext image and uses matplotlib to render the image. 
 
-img2cpti.py takes a colour Bitmap Image and uses it to create a Colour Plaintext 
+img2cpti.py takes a 24-bit colour Bitmap Image and uses it to create a Colour Plaintext 
 image.
 
 cptiread.py takes a Colour Plaintext image and uses matplotlib to render it.
